@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "agent": "frontend-lead",
+  "sizeBytes": 468,
+  "maxSizeBytes": 51200,
+  "entries": [
+    {
+      "id": "mem_001",
+      "timestamp": "2026-09-29T18:11:00Z",
+      "projectType": "fullstack",
+      "lesson": "Vite 6 with Tailwind 4 requires @tailwindcss/vite plugin and simple @import in CSS instead of postcss.config.js.",
+      "source": "frontend-lead",
+      "tags": [
+        "vite",
+        "tailwindcss",
+        "react"
+      ]
+    }
+  ]
+}
