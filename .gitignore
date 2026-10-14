@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Large binaries, models, datasets & archives
-*.traineddata
 *.zip
 *.tar.gz
 *.rar
@@ -43,4 +42,3 @@ Thumbs.db
 # Agent / temporary scratch directories
 .agent_execution/
 .gemini/
-.agent
